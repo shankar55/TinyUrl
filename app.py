@@ -42,3 +42,6 @@ def redirect_to_original(short_url):
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+#https://www.amazon.in/stores/page/4F1CFFDA-292D-4D74-B9FA-53C8A5778F28?ingress=0&visitId=07b6f9a8-3083-4060-a006-b7556e3c4da9&lp_slot=auto-sparkle-hsa-tetris&store_ref=SB_A082162328U1QC6B2CJIZ_bbb_bsp_page-spotlight&ref_=sbx_be_s_sparkle_atgssd2_bkgd
